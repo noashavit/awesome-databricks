@@ -89,7 +89,8 @@
 <li>
 <p><a href="https://databricks.com/resources">Resources</a></p>
 <ul>
-<li><a href="https://databricks.com/resources?_sft_resource_type=customer-stories">Use Cases, Customer Stories</a></li>
+<li><a href="https://databricks.com/resources?_sft_resource_type=customer-stories">Use Cases, Customer Stories</a></li
+<li><a href="https://landing.synccomputing.com/health-check">Free Databricks Workspace Health Check/a></li                                                                                  
 <li><a href="https://www.crunchbase.com/organization/databricks">Databricks is an Unicorn Startup, by Crunchbase</a></li>
 <li><a href="https://www.kdnuggets.com/2020/02/gartner-mq-2020-data-science-machine-learning.html">Databricks is Leader, by Gartner 2020 Magic Quadrant Analysis</a></li>
 <li><a href="https://databricks.com/sparkaisummit/north-america-2020/agenda">Conference Spark+AI Summit 2020, Videos</a></li>
